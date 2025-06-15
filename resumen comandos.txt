@@ -1,0 +1,18 @@
+git config --global user.name "Alejandro40K"
+git config --global user.email "alejandroromo1810@gmail.com"
+
+// INICIALIZAMOS EL REPOSITORIO Y COMPROMETEMOS LOS CAMBIOS EN LA RAMA PRINCIPAL //
+
+git init -b main 
+git remote add origin https://...
+git pull origin main 
+git status 
+git add . 
+git commit -m "First commit"
+git status
+git log --oneline
+git push origin main 
+
+// CREACION DE UNA NUEVA RAMA //
+
+
