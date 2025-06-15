@@ -15,4 +15,9 @@ git push origin main
 
 // CREACION DE UNA NUEVA RAMA //
 
+git checkout -m branchA
+git checkout main -> para moverse de una rama a otra 
+git merg main -> para compiar de una rama, por ejemplo de main a BranchA
+
+
 
